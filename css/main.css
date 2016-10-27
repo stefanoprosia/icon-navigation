@@ -27,3 +27,8 @@ h1 {
   background-color: #15114c;
   border-radius: 5px;
 }
+
+.nav a:hover {
+  color: #15114c;
+  background-color: #fff;
+}
