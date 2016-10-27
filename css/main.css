@@ -32,3 +32,9 @@ h1 {
   color: #15114c;
   background-color: #fff;
 }
+
+.logo {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
