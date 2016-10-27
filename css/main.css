@@ -15,3 +15,15 @@ html {
 h1 {
   color: #fff;
 }
+
+.nav {
+  color: #fff;
+  text-align: center;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #15114c;
+  border-radius: 5px;
+}
